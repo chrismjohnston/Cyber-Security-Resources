@@ -30,6 +30,8 @@
 ### MAC Addressing
 * a 48 bit address that every network device is given by the manufacturer and it is burned into the hardware. This is broken into two 24-bit parts:
   * Organizationally Unique Identifier or OUI - given to the manufacturer by the IEEE
-  * Assigned by vendor - 
+  * Assigned by vendor
 
 There are [MAC address search engines](https://www.wireshark.org/tools/oui-lookup.html) that can help you identify a device manufacturer by the MAC Address.
+
+Switches will build a MAC address table locally as it learns about the devices on its network so that it can more efficiently forward traffic.
