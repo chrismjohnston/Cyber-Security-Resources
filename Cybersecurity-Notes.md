@@ -17,3 +17,11 @@
 * 128 bits long
 * no broadcast address
 * prefix length ```prefixlen``` denotes the number of bits for the host portion of the address and the number of bits for the network portion of the address.
+
+
+### Network Address Classes
+|  Address Class	|   Private IP Address Range	|  Subnet Mask 	|  Networks 	|   Hosts	|
+|---	|---	|---	|---	|---	|
+|  Class A  	|  10.0.0.0 - 10.255.255.255 	|   255.0.0.0 /8	|  128 	|  16,777,214 	|
+|  Class B	|   172.16.0.0 - 172.31.255.255	|  255.25.0.0 /16 	|   16,383	|  65,024 	|
+|  Class C 	|   192.168.0.0 - 192.168.255.255	|  255.255.255.0 /24 	| 2,097,151 	|  254 	|
