@@ -32,4 +32,4 @@
   * Organizationally Unique Identifier or OUI - given to the manufacturer by the IEEE
   * Assigned by vendor - 
 
-There are [MAC address search engines](https://www.macvendorlookup.com/) that can help you identify a device manufacturer by the MAC Address.
+There are [MAC address search engines](https://www.wireshark.org/tools/oui-lookup.html) that can help you identify a device manufacturer by the MAC Address.
