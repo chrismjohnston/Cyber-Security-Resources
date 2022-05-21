@@ -25,3 +25,11 @@
 |  Class A  	|  10.0.0.0 - 10.255.255.255 	|   255.0.0.0 /8	|  128 	|  16,777,214 	|
 |  Class B	|   172.16.0.0 - 172.31.255.255	|  255.25.0.0 /16 	|   16,383	|  65,024 	|
 |  Class C 	|   192.168.0.0 - 192.168.255.255	|  255.255.255.0 /24 	| 2,097,151 	|  254 	|
+
+
+### MAC Addressing
+* a 48 bit address that every network device is given by the manufacturer and it is burned into the hardware. This is broken into two 24-bit parts:
+  * Organizationally Unique Identifier or OUI - given to the manufacturer by the IEEE
+  * Assigned by vendor - 
+
+There are [MAC address search engines](https://www.macvendorlookup.com/) that can help you identify a device manufacturer by the MAC Address.
