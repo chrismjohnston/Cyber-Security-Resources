@@ -95,3 +95,6 @@ Let's try this one.
 |   1	|   0	|   0	|  1 	|   0	|  1 	|  1 	|  0 	|
 
 128 + 16 + 4 + 2 = 150
+
+### Subnetting
+
