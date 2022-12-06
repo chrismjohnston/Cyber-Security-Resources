@@ -14,4 +14,5 @@ Best sites to practice Cyber Security 🔐 for free:
   - [isaca.org](https://isaca.org)
   - [overthewire.org](https://overthewire.org)
 
-Cyber Security Engineer Average Salary $150,000+ 
+Cyber Security Engineer Average Salary $150,000+ <br>
+<sub>info originally from <https://twitter.com/simonholdorf/status/1597483720579112961></sub>
