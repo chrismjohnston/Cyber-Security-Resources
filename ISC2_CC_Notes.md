@@ -1,4 +1,5 @@
 ##CIA Triad
+
 -Confidentiality - relates to permitting authorized access to information while at the same time protecting information from improper disclosure.
 This could include Personally Identifiable Information (PII), Protected Health Information (PHI), or Classified or Secret materials, including trade secrets. business plans, or research. 
 Sensitive information could also be included here. Information that, if revealed, could harm the company or individuals. 
