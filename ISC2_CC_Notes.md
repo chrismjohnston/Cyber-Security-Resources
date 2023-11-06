@@ -24,3 +24,10 @@ Using only one method of authentication in single-factor authentication (SFA). G
 
 # Non-repudiation
 This is a way to prove that a user performed or did not perform an action. It ensures that people are held responsible for the transactions they participate in online. 
+
+# Risk Management
+First, we need a definition of  risk. It is  a measure of the extent to which an entity is threatened by a potential circumstance or event. It is often expressed as a combination of:
+1. the adverse impacts that would arise if the circumstance or event occurs,  and
+2. the likelihood of occurrence.
+
+Information security risk reflects the potential adverse impacts that result from the possibility of unauthorized access, use, disclosure, disruption, modification or destruction of information and/or information systems. This definition represents that risk is associated with threats, impact and likelihood, and it also indicates that IT risk is a subset of business risk. 
