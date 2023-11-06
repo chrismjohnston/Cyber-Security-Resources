@@ -14,3 +14,13 @@ Sensitive information could also be included here. Information that, if revealed
    Means that systems and data are accessible when users need them.
 Ransomware attacks affect information availability for users.
 
+# Authentication
+There are three common methods of authentication
+1. Passwords or passphrases
+2. Tokens, Yubikeys, RSA keys, etc.
+3. Biometrics
+
+Using only one method of authentication in single-factor authentication (SFA). Granting access after demonstrating two or more of the above methods is multi-factor authentication (MFA).
+
+# Non-repudiation
+This is a way to prove that a user performed or did not perform an action. It ensures that people are held responsible for the transactions they participate in online. 
