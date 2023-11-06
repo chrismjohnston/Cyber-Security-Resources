@@ -31,3 +31,16 @@ First, we need a definition of  risk. It is  a measure of the extent to wh
 2. the likelihood of occurrence.
 
 Information security risk reflects the potential adverse impacts that result from the possibility of unauthorized access, use, disclosure, disruption, modification or destruction of information and/or information systems. This definition represents that risk is associated with threats, impact and likelihood, and it also indicates that IT risk is a subset of business risk. 
+
+Risk management terms we need to be familiar with:
+- An **asset** is something in need of protection.
+- A **vulnerability** is a gap or weakness in those protection efforts.
+- A **threat** is something or someone that aims to exploit a vulnerability to thwart protection efforts.
+
+**Threat actors** can include the following:
+- Insiders (either deliberately, by simple human error, or by gross incompetence).
+- Outside individuals or informal groups (either planned or opportunistic, discovering vulnerability).
+- Formal entities that are nonpolitical (such as business competitors and cybercriminals).
+- Formal entities that are political (such as terrorists, nation-states, and hacktivists).
+- Intelligence or information gatherers (could be any of the above).
+- Technology (such as free-running bots and artificial intelligence , which could be part of any of the above).
