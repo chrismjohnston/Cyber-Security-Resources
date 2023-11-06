@@ -44,3 +44,5 @@ Risk management terms we need to be familiar with:
 - Formal entities that are political (such as terrorists, nation-states, and hacktivists).
 - Intelligence or information gatherers (could be any of the above).
 - Technology (such as free-running bots and artificial intelligence , which could be part of any of the above).
+
+We must also consider the likelihood of an envent occuring and the impact of that event, both at the time of the event and in the aftermath. 
